@@ -7,7 +7,7 @@ HydroMix was originally implemented to solve mixing problems in hydrology, such 
 A detailed manuscript describing the model can be seen at:
 https://www.geosci-model-dev-discuss.net/gmd-2019-69/
 
-Code for the following case studies have been included in this document:
+Code for the following case studies have been included in this document. However due to space limitations, all the synthetic tests were not uploaded here. Instead they have been uploaded and shared on zenodo and can be found at https://doi.org/10.5281/zenodo.3475429
 
 1. Synthetic case study
 	This has been explained in Section 3.1 of the manuscript
